@@ -1,0 +1,51 @@
+div footer{
+    background-color:slategrey;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+
+.tit{
+    color: black;
+    font-family: Cambria Math ;
+    font-size:40px ;
+}
+
+.container-fluid .parrafo{
+    font-size: 20px;
+    position: relative;
+    top: 5px;
+    text-align:left;
+}
+
+
+
+.cont2 p{
+    font-size: 25px;  
+}
+
+footer .git{
+    position: relative;
+    width: 40px;
+    left: 150px;
+    display: block;
+    bottom: 12px;
+}
+
+footer .oli{
+    position: relative;
+    width: 40px;
+    left: 150px;
+    display: block;
+    bottom: 10px;
+}
+
+footer img:hover{
+    background-color:lightgrey ;
+    opacity:0.8;
+    border-radius:60px;
+}
+
+footer hr{
+    color: black;
+}
